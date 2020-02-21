@@ -1,19 +1,65 @@
-
 .studio { 
     background-image: url(../img/h_img.jpg);
     background-size: cover;
-    height: 500px;
-
+    background-position: center;
+    height: auto;
+    width: auto;
+    text-align: center;
+    color: white;
+    padding-top: 300px;
 }
-.delani {
-    padding-top: 50px ;
+.click{
+    padding: 100px;
+}
+.about{
+    text-align: center;
+    padding: 50px;
+    font-weight: 20px;
 }
 .services {
     background-image: url(../img/s_image.jpg) ;
-    background-size: cover;
-    height: 280px;
+    height: auto;
+    width: auto;    
+    padding: 100px;
+    text-align: center;
+    color: white;
+    font-weight: 20px;
 }
-.column-md-3 {
-    padding: 20px;
-    margin: auto;
+.what {
+    text-align: center;
+    padding: 50px;
+
+}
+ .portfolio {
+     text-align: center;
+     padding: 50px;
+ }   
+
+.imagesPortfolio {
+    height: 200px;
+    width: auto;
+    padding: 10px;
+}
+.contact {
+    background-image: url(../img/c_image.jpg);
+    height: 500px;
+    width: auto;
+    text-align: center;
+    color: white;
+    padding: 50px;
+    background-size: cover;
+}
+.typo {
+    background-color: rgba(0, 0, 0, 0);
+}
+.icons {
+    text-align: center;
+    padding: 30px;
+    margin-right: 18px;
+}
+.last {
+    text-align: center;
+}
+ p ,h6 {
+    display: none;
 }
