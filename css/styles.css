@@ -1,0 +1,17 @@
+h1 {
+    font-size: 90px;
+}
+.studio { 
+    background-image: url(../img/h_img.jpg);
+    background-size: cover;
+    height: 650px;
+
+}
+.delani {
+    padding-top: 50px ;
+}
+.services {
+    background-image: url(../img/s_image.jpg) ;
+    background-size: contain;
+    height: 300px;
+}
