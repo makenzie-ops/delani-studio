@@ -8,6 +8,8 @@ $(document).ready(function(){
         $(".dev").toggle();
     });
     
+    
+    
         $(".prod").click(function(){
             $(".imageIconPro").toggle();
             $(".product").toggle();
