@@ -60,6 +60,19 @@
 .last {
     text-align: center;
 }
- p ,h6 {
+ .design {
     display: none;
+}
+.dev{
+    display: none;
+}
+.product {
+    display: none;
+}
+.work8,.work7 , .work6, .work5,.work4 ,.work3,.work2, .work1{
+    display: none;
+    background-color: white;
+    font-size: 30px;
+    color: black;
+    opacity: 0.4;
 }
