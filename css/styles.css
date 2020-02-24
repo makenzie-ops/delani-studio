@@ -74,6 +74,10 @@
     background-color: white;
     font-size: 25px;
     color: black;
-    opacity: 0.6;
+    opacity: 0.6
+;
     
+}
+body {
+    font-family: 'Muli';
 }
